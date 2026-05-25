@@ -1,0 +1,26 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Database
+chroma_db/
+*.sqlite3
+
+# Project Output (Optional to ignore, but good practice. Leave commented out if you want to push them)
+# Listings.txt
+# listings.json

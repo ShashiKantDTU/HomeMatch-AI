@@ -1,0 +1,92 @@
+[
+    {
+        "Neighborhood": "Willow Creek",
+        "Price": "$450,000",
+        "Bedrooms": 4,
+        "Bathrooms": 2.5,
+        "House Size": 2500,
+        "Description": "Charming family home located in the desirable Willow Creek neighborhood. This two-story house features a spacious living room, updated kitchen with granite countertops, and a cozy backyard perfect for entertaining. The master suite includes a walk-in closet and en-suite bathroom with a jacuzzi tub.",
+        "Neighborhood Description": "Willow Creek is known for its tree-lined streets, friendly community atmosphere, and top-rated schools. Residents enjoy easy access to parks, shopping centers, and dining options. This neighborhood is ideal for families looking for a safe and welcoming environment."
+    },
+    {
+        "Neighborhood": "Willow Creek",
+        "Price": "$550,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": 2500,
+        "Description": "Beautiful family home located in the quiet neighborhood of Willow Creek. This spacious 4 bedroom, 3 bathroom house features a large backyard perfect for entertaining, a cozy fireplace in the living room, and a modern kitchen with stainless steel appliances. The master suite includes a walk-in closet and en-suite bathroom with a luxurious soaking tub.",
+        "Neighborhood Description": "Willow Creek is a charming suburban neighborhood known for its tree-lined streets, friendly neighbors, and top-rated schools. Residents enjoy easy access to parks, shopping centers, and restaurants, making it a desirable place to call home for families and young professionals alike."
+    },
+    {
+        "Neighborhood": "Willow Creek",
+        "Price": "$550,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": 1800,
+        "Description": "Charming 3 bedroom, 2 bathroom home in the desirable Willow Creek neighborhood. This well-maintained property features a spacious living room, updated kitchen with stainless steel appliances, and a cozy backyard perfect for entertaining.",
+        "Neighborhood Description": "Willow Creek is known for its tree-lined streets, family-friendly atmosphere, and top-rated schools. Residents enjoy easy access to parks, shopping centers, and dining options."
+    },
+    {
+        "Neighborhood": "Lakeview Heights",
+        "Price": "$550,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": 2500,
+        "Description": "Beautifully renovated 4 bedroom, 3 bathroom home in the desirable Lakeview Heights neighborhood. This spacious house features a modern kitchen, hardwood floors, and a large backyard perfect for entertaining.",
+        "Neighborhood Description": "Lakeview Heights is known for its stunning views of the lake and surrounding mountains. It is a quiet and family-friendly neighborhood with easy access to parks, schools, and shopping centers."
+    },
+    {
+        "Neighborhood": "Park Slope, Brooklyn",
+        "Price": "$1,200,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": 1800,
+        "Description": "Beautiful brownstone townhouse in the heart of Park Slope. This charming home features original hardwood floors, exposed brick walls, and a renovated kitchen with stainless steel appliances. The spacious backyard is perfect for entertaining or relaxing. Close to Prospect Park, trendy restaurants, and boutique shops.",
+        "Neighborhood Description": "Park Slope is known for its tree-lined streets, historic brownstones, and vibrant community. Residents enjoy easy access to Prospect Park, Brooklyn Museum, and a variety of cafes and restaurants. The neighborhood is family-friendly and offers a mix of cultural attractions and green spaces."
+    },
+    {
+        "Neighborhood": "Mount Pleasant",
+        "Price": "$650,000",
+        "Bedrooms": 4,
+        "Bathrooms": 2.5,
+        "House Size": 2200,
+        "Description": "Charming colonial style home located in the desirable Mount Pleasant neighborhood. This well-maintained property features a spacious living room, updated kitchen with stainless steel appliances, and a cozy backyard perfect for entertaining. The master suite includes a walk-in closet and en-suite bathroom.",
+        "Neighborhood Description": "Mount Pleasant is known for its tree-lined streets, friendly community atmosphere, and proximity to parks, schools, and trendy restaurants. Residents enjoy easy access to public transportation and a short commute to downtown. This neighborhood is perfect for families and young professionals looking for a mix of urban convenience and suburban tranquility."
+    },
+    {
+        "Neighborhood": "Willow Creek",
+        "Price": "$450,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": 2500,
+        "Description": "Beautiful two-story home in the quiet neighborhood of Willow Creek. This spacious house features a large living room, modern kitchen with stainless steel appliances, master suite with walk-in closet, and a backyard perfect for entertaining.",
+        "Neighborhood Description": "Willow Creek is a family-friendly neighborhood known for its tree-lined streets, parks, and top-rated schools. Residents enjoy easy access to shopping centers, restaurants, and outdoor recreational activities."
+    },
+    {
+        "Neighborhood": "Hillcrest Heights",
+        "Price": "$450,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": 1800,
+        "Description": "Beautiful single-family home in the sought-after Hillcrest Heights neighborhood. This charming property features a spacious living room, updated kitchen with stainless steel appliances, and a cozy backyard perfect for entertaining. The master bedroom boasts an en-suite bathroom and walk-in closet. Conveniently located near parks, schools, and shopping centers.",
+        "Neighborhood Description": "Hillcrest Heights is a family-friendly neighborhood known for its tree-lined streets, well-maintained homes, and close-knit community. Residents enjoy easy access to public transportation, restaurants, and recreational facilities."
+    },
+    {
+        "Neighborhood": "Willow Creek",
+        "Price": "$450,000",
+        "Bedrooms": 3,
+        "Bathrooms": 2,
+        "House Size": 1800,
+        "Description": "Charming single-family home located in the desirable Willow Creek neighborhood. This well-maintained property features a spacious living room, updated kitchen with stainless steel appliances, and a cozy backyard perfect for entertaining. The master bedroom includes an en-suite bathroom and walk-in closet.",
+        "Neighborhood Description": "Willow Creek is known for its family-friendly atmosphere, tree-lined streets, and top-rated schools. Residents enjoy easy access to local parks, shopping centers, and restaurants. This neighborhood offers a perfect blend of suburban tranquility and urban convenience."
+    },
+    {
+        "Neighborhood": "Historic Old Town",
+        "Price": "$750,000",
+        "Bedrooms": 4,
+        "Bathrooms": 3,
+        "House Size": 2500,
+        "Description": "Charming Victorian-style home located in the heart of Historic Old Town. This beautifully renovated property features hardwood floors, a gourmet kitchen, and a spacious backyard perfect for entertaining. The master suite boasts a luxurious en-suite bathroom and walk-in closet.",
+        "Neighborhood Description": "Historic Old Town is a vibrant and sought-after neighborhood known for its cobblestone streets, historic architecture, and close proximity to popular shops and restaurants. Residents enjoy a strong sense of community and easy access to public transportation options."
+    }
+]

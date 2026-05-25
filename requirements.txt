@@ -1,0 +1,13 @@
+# Existing Repository Requirements
+langchain
+langchain-openai
+langchain-chroma
+langchain-core
+openai
+pydantic
+pytest
+sentence-transformers
+transformers
+chromadb
+jupyter
+tiktoken
