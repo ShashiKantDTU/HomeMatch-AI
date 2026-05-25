@@ -21,6 +21,3 @@ Thumbs.db
 chroma_db/
 *.sqlite3
 
-# Project Output (Optional to ignore, but good practice. Leave commented out if you want to push them)
-# Listings.txt
-# listings.json

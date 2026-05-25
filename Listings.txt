@@ -1,0 +1,90 @@
+--- Listing 1 ---
+Neighborhood: Historic Downtown District
+Price: $650,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 1800 sqft
+Description: Charming Victorian home with modern updates in the heart of the Historic Downtown District. This beautifully restored property features original hardwood floors, a gourmet kitchen, and a spacious backyard perfect for entertaining.
+Neighborhood Description: The Historic Downtown District is known for its tree-lined streets, historic architecture, and vibrant community. Residents enjoy easy access to boutique shops, trendy restaurants, and cultural attractions.
+
+--- Listing 2 ---
+Neighborhood: Sunset Hills
+Price: $650,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2500 sqft
+Description: Beautiful modern home with scenic views in the desirable Sunset Hills neighborhood. This spacious 4 bedroom, 3 bathroom house features an open floor plan, high ceilings, and a stunning gourmet kitchen. The master suite boasts a luxurious en-suite bathroom and walk-in closet. Enjoy outdoor living on the expansive deck overlooking the lush backyard.
+Neighborhood Description: Sunset Hills is known for its upscale homes, tree-lined streets, and proximity to top-rated schools. Residents can enjoy nearby parks, shopping centers, and restaurants, making it a perfect place for families and professionals alike.
+
+--- Listing 3 ---
+Neighborhood: Historic Downtown District
+Price: $750,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 2000 sqft
+Description: Charming Victorian-style home with modern updates. Features a spacious kitchen, hardwood floors, and a cozy fireplace. Beautifully landscaped backyard with a deck for entertaining.
+Neighborhood Description: The Historic Downtown District is known for its picturesque streets lined with historic buildings, trendy boutiques, and top-rated restaurants. Residents enjoy easy access to parks, museums, and cultural events throughout the year.
+
+--- Listing 4 ---
+Neighborhood: Historic Downtown District
+Price: $750,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 2200 sqft
+Description: Charming Victorian home with modern updates located in the heart of the Historic Downtown District. This beautifully restored 19th-century house features original hardwood floors, high ceilings, and a spacious backyard perfect for entertaining.
+Neighborhood Description: The Historic Downtown District is known for its cobblestone streets, historic architecture, and vibrant arts scene. Residents enjoy easy access to local boutiques, restaurants, and cultural attractions.
+
+--- Listing 5 ---
+Neighborhood: Maplewood
+Price: $450,000
+Bedrooms: 3
+Bathrooms: 2.5
+House Size: 2100 sqft
+Description: Beautifully renovated colonial home in the heart of Maplewood. This charming property features a spacious living room, updated kitchen with granite countertops, and a cozy backyard perfect for entertaining.
+Neighborhood Description: Maplewood is a family-friendly neighborhood with tree-lined streets, top-rated schools, and easy access to parks and local shops. Residents enjoy a strong sense of community and a vibrant downtown area with cafes and restaurants.
+
+--- Listing 6 ---
+Neighborhood: Victorian Village
+Price: $450,000
+Bedrooms: 3
+Bathrooms: 2
+House Size: 1800 sqft
+Description: Charming historic home in the heart of Victorian Village. This beautifully renovated 19th-century house features original hardwood floors, exposed brick walls, and a spacious backyard perfect for entertaining.
+Neighborhood Description: Victorian Village is known for its tree-lined streets, historic architecture, and vibrant arts scene. Residents enjoy easy access to local boutiques, restaurants, and parks, making it a highly desirable area for those seeking a mix of urban convenience and small-town charm.
+
+--- Listing 7 ---
+Neighborhood: Willow Creek
+Price: $450,000
+Bedrooms: 3
+Bathrooms: 2.5
+House Size: 2200 sqft
+Description: Charming 3-bedroom home in the sought-after Willow Creek neighborhood. This well-maintained property features a spacious living room, updated kitchen with stainless steel appliances, and a cozy backyard perfect for entertaining. The master suite includes a walk-in closet and en-suite bathroom. Conveniently located near parks, schools, and shopping centers.
+Neighborhood Description: Willow Creek is known for its family-friendly atmosphere and top-rated schools. Residents enjoy easy access to hiking trails, community events, and a strong sense of community. With tree-lined streets and well-kept homes, Willow Creek is a desirable neighborhood for those looking for a peaceful suburban setting.
+
+--- Listing 8 ---
+Neighborhood: Waterfront District
+Price: $750,000
+Bedrooms: 3
+Bathrooms: 2.5
+House Size: 2200 sqft
+Description: Beautiful waterfront home with stunning views of the bay. This newly renovated 3 bedroom, 2.5 bathroom house features a spacious open floor plan, modern kitchen with stainless steel appliances, hardwood floors, and a private deck overlooking the water. Perfect for entertaining or relaxing by the fireplace.
+Neighborhood Description: The Waterfront District is a highly sought-after area known for its picturesque views, waterfront dining, and vibrant community atmosphere. Residents enjoy easy access to walking trails, parks, and local shops. This neighborhood offers the perfect blend of waterfront living and urban convenience.
+
+--- Listing 9 ---
+Neighborhood: Sunset Heights
+Price: $650,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2500 sqft
+Description: Beautifully renovated Victorian home with modern finishes. Spacious living areas, gourmet kitchen, and a backyard oasis perfect for entertaining. Conveniently located near parks, restaurants, and shops.
+Neighborhood Description: Sunset Heights is a charming historic neighborhood known for its tree-lined streets and well-preserved architecture. Residents enjoy easy access to downtown, trendy boutiques, and top-rated schools.
+
+--- Listing 10 ---
+Neighborhood: Riverside Estates
+Price: $550,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2500 sqft
+Description: Beautiful modern home in the desirable Riverside Estates neighborhood. This 4 bedroom, 3 bathroom house features a spacious open concept layout, high ceilings, and a gourmet kitchen with stainless steel appliances. The master suite includes a walk-in closet and a luxurious en-suite bathroom with a soaking tub and separate shower. Enjoy outdoor entertaining in the private backyard with a patio and lush landscaping.
+Neighborhood Description: Riverside Estates is known for its peaceful tree-lined streets, proximity to parks and walking trails, and top-rated schools. Residents love the sense of community and convenient access to shopping, dining, and entertainment options.
+
